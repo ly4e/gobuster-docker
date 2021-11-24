@@ -34,6 +34,7 @@ https://github.com/0xdevalias/docker-gobuster
 ---
 ### sample wordlists included by default are sourced from: 
 > https://github.com/danielmiessler/SecLists/
+#### included lists are as follows
 * danielmiessler/SecLists/master/Discovery/Web-Content/big.txt
 * danielmiessler/SecLists/master/Discovery/Web-Content/raft-medium-directories.txt
 * danielmiessler/SecLists/master/Discovery/Web-Content/common.txt
